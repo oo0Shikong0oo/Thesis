@@ -24,7 +24,8 @@ public class Hint_001 : MonoBehaviour
     IEnumerator WaitForSec()
     {
         yield return new WaitForSeconds(10);
-        Destroy(uiObject);
-        Destroy(gameObject);
+        uiObject.SetActive(false);
+        //Destroy(uiObject);
+        //Destroy(gameObject);
     }
 }

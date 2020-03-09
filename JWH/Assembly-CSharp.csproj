@@ -60,20 +60,24 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Assets\Scenes\Script\Drag.cs" />
-    <Compile Include="Assets\Scenes\Script\DragHandler.cs" />
-    <Compile Include="Assets\Scenes\Script\DropHandler.cs" />
-    <Compile Include="Assets\Scenes\Script\Hint_001.cs" />
-    <Compile Include="Assets\Scenes\Script\NPCmove.cs" />
-    <Compile Include="Assets\Scenes\Script\NPCSimplePatrol.cs" />
-    <Compile Include="Assets\Scenes\Script\Waypoint.cs" />
     <Compile Include="Assets\Script\ClickDestroy.cs" />
+    <Compile Include="Assets\Script\Drag.cs" />
+    <Compile Include="Assets\Script\DragHandler.cs" />
+    <Compile Include="Assets\Script\DropHandler.cs" />
+    <Compile Include="Assets\Script\GameManager.cs" />
+    <Compile Include="Assets\Script\Hint_001.cs" />
     <Compile Include="Assets\Script\MouseRotate.cs" />
-    <Compile Include="Assets\Scripts\OnClickActive.cs" />
-    <Compile Include="Assets\Scripts\SceneSwitch.cs" />
-    <Compile Include="Assets\Scripts\SceneSwitchh.cs" />
-    <Compile Include="Assets\Scripts\scoreCol.cs" />
-    <Compile Include="Assets\Scripts\ScoreScript.cs" />
+    <Compile Include="Assets\Script\NewspaperManager.cs" />
+    <Compile Include="Assets\Script\NPCmove.cs" />
+    <Compile Include="Assets\Script\NPCSimplePatrol.cs" />
+    <Compile Include="Assets\Script\OnClickActive.cs" />
+    <Compile Include="Assets\Script\OpenPanel.cs" />
+    <Compile Include="Assets\Script\SceneSwitch.cs" />
+    <Compile Include="Assets\Script\SceneSwitchh.cs" />
+    <Compile Include="Assets\Script\scoreCol.cs" />
+    <Compile Include="Assets\Script\ScoreScript.cs" />
+    <Compile Include="Assets\Script\TaskTransmitter.cs" />
+    <Compile Include="Assets\Script\Waypoint.cs" />
     <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\Benchmark01.cs" />
     <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\Benchmark01_UGUI.cs" />
     <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\Benchmark02.cs" />
