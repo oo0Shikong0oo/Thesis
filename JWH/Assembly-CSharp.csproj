@@ -67,8 +67,10 @@
     <Compile Include="Assets\Script\GameManager.cs" />
     <Compile Include="Assets\Script\Hint_001.cs" />
     <Compile Include="Assets\Script\MouseRotate.cs" />
-    <Compile Include="Assets\Script\NewspaperManager\01NewspaperManager.cs" />
+    <Compile Include="Assets\Script\NewspaperManager\NewsMNG02.cs" />
     <Compile Include="Assets\Script\NewspaperManager\NewspaperManager.cs" />
+    <Compile Include="Assets\Script\NewspaperManager\TaskTransmitter.cs" />
+    <Compile Include="Assets\Script\NewspaperManager\TSKTR02.cs" />
     <Compile Include="Assets\Script\NPCmove.cs" />
     <Compile Include="Assets\Script\NPCSimplePatrol.cs" />
     <Compile Include="Assets\Script\OnClickActive.cs" />
@@ -77,7 +79,6 @@
     <Compile Include="Assets\Script\SceneSwitchh.cs" />
     <Compile Include="Assets\Script\scoreCol.cs" />
     <Compile Include="Assets\Script\ScoreScript.cs" />
-    <Compile Include="Assets\Script\TaskTransmitter.cs" />
     <Compile Include="Assets\Script\Waypoint.cs" />
     <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\Benchmark01.cs" />
     <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\Benchmark01_UGUI.cs" />
