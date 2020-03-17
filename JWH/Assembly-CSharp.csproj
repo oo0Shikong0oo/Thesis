@@ -67,7 +67,8 @@
     <Compile Include="Assets\Script\GameManager.cs" />
     <Compile Include="Assets\Script\Hint_001.cs" />
     <Compile Include="Assets\Script\MouseRotate.cs" />
-    <Compile Include="Assets\Script\NewspaperManager.cs" />
+    <Compile Include="Assets\Script\NewspaperManager\01NewspaperManager.cs" />
+    <Compile Include="Assets\Script\NewspaperManager\NewspaperManager.cs" />
     <Compile Include="Assets\Script\NPCmove.cs" />
     <Compile Include="Assets\Script\NPCSimplePatrol.cs" />
     <Compile Include="Assets\Script\OnClickActive.cs" />
