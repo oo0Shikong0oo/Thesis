@@ -69,8 +69,10 @@
     <Compile Include="Assets\Script\MouseRotate.cs" />
     <Compile Include="Assets\Script\NewspaperManager\NewsMNG02.cs" />
     <Compile Include="Assets\Script\NewspaperManager\NewspaperManager.cs" />
+    <Compile Include="Assets\Script\NewspaperManager\NSMNG3.cs" />
     <Compile Include="Assets\Script\NewspaperManager\TaskTransmitter.cs" />
     <Compile Include="Assets\Script\NewspaperManager\TSKTR02.cs" />
+    <Compile Include="Assets\Script\NewspaperManager\TSKTR03.cs" />
     <Compile Include="Assets\Script\NPCmove.cs" />
     <Compile Include="Assets\Script\NPCSimplePatrol.cs" />
     <Compile Include="Assets\Script\OnClickActive.cs" />
