@@ -1,0 +1,70 @@
+
+title: Start
+tags: 
+colorID: 0
+position: 884,125
+parent: 
+---
+Every Morning I come here
+looking at the trash cans of every house 
+to collect whatever people wasted overnight
+I was shocked this morning, but I need to kept calm.
+This male single dorm. Lives Eason - 40213.
+...
+...
+You see the problem?
+-> What do you mean?
+-> Of course I do.
+
+Look.
+PINK shoes. 
+Worn Out.
+So he throw it away.
+Isn't blue or black good enough for a true man?
+Imagine what kind of people he could be if he wears pink.
+If no one does anything, would he be wearing PINK on street in the future?
+Think about it.
+
+-> I'll think about it.
+-> What a shame. Here is 10 sb as a reward for your clue.
+
+Sure, you gotta have to keep the evidence.
+Here, take what you want and I'll have the rest.
+
+[[Take pink shoes|Leave]]
+[[I have other thoughts|LearnMore]]
+
+
+
+
+
+//A: Hey, I'm a character in a script! #line:675d661a
+//B: And I am too! You are talking to me! #line:cde582fb
+//-> What's going on #line:fa2e1356
+//    A: Why this is a demo of the script system! #line:38b2353e
+//    B: And you're in it! #line:31ad4160
+//-> Um ok #line:6c0fb745
+//A: How delightful! #line:036fb4f1
+//B: What would you prefer to do next? #line:d35a9665
+//C: I am in a new line
+//[[Leave|Leave]] #line:e6cebba9
+//[[Learn more|LearnMore]] #line:30ee1a0e
+===
+title: Leave
+tags: 
+colorID: 0
+position: 808,391
+parent: 
+---
+That's right.
+===
+title: LearnMore
+tags: 
+colorID: 0
+position: 1033,496
+parent: 
+---
+-> Take water bottle.
+-> Take bic and cigarette.
+
+===
